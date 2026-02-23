@@ -26,14 +26,23 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```
-🎓  MSCS @ Northeastern University, Boston
-🔭  Building intelligent systems across ML, distributed systems & mobile
-🎯  Targeting: Software Engineer · AI/ML · Data Engineer · Full Stack · Mobile
-💼  Open to: Summer 2026 Internships | Fall 2026 Co-ops
-📄  Published: ICDSA 2025 (Springer) — Court Judgment Prediction & Explanation
-⚡  Fun fact: I ship production-ready projects in 2-3 day sprints
-```
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/🎓_Education-MSCS_@_Northeastern_University,_Boston-58a6ff?style=flat-square&labelColor=0d1117" />
+      <br/>
+      <img src="https://img.shields.io/badge/🔭_Building-Intelligent_systems_across_ML,_distributed_systems_&_mobile-58a6ff?style=flat-square&labelColor=0d1117" />
+      <br/>
+      <img src="https://img.shields.io/badge/🎯_Targeting-SWE_·_AI/ML_·_Data_Engineer_·_Full_Stack_·_Mobile-58a6ff?style=flat-square&labelColor=0d1117" />
+      <br/>
+      <img src="https://img.shields.io/badge/💼_Open_to-Summer_2026_Internships_|_Fall_2026_Co--ops-58a6ff?style=flat-square&labelColor=0d1117" />
+      <br/>
+      <img src="https://img.shields.io/badge/📄_Published-ICDSA_2025_(Springer)_—_Court_Judgment_Prediction-58a6ff?style=flat-square&labelColor=0d1117" />
+      <br/>
+      <img src="https://img.shields.io/badge/⚡_Fun_fact-I_ship_projects_in_2--3_day_sprints-58a6ff?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
