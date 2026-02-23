@@ -26,20 +26,13 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```yaml
-name: Srujan Kothuri
-location: Boston, MA
-education: MS Computer Science @ Northeastern University
-roles_targeting:
-  - Software Engineer
-  - AI / ML Engineer
-  - Data Engineer
-  - Full Stack Developer
-  - Mobile App Developer
-currently_building: "Intelligent systems across ML, distributed systems & mobile"
-open_to: "Summer 2026 Internships | Fall 2026 Co-ops"
-publication: "ICDSA 2025 (Springer) — Court Judgment Prediction & Explanation"
-fun_fact: "I ship production-ready projects in 2-3 day sprints ⚡"
+```
+🎓  MSCS @ Northeastern University, Boston
+🔭  Building intelligent systems across ML, distributed systems & mobile
+🎯  Targeting: Software Engineer · AI/ML · Data Engineer · Full Stack · Mobile
+💼  Open to: Summer 2026 Internships | Fall 2026 Co-ops
+📄  Published: ICDSA 2025 (Springer) — Court Judgment Prediction & Explanation
+⚡  Fun fact: I ship production-ready projects in 2-3 day sprints
 ```
 
 <br/>
