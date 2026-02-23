@@ -26,23 +26,25 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/🎓_Education-MSCS_@_Northeastern_University,_Boston-58a6ff?style=flat-square&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/badge/🔭_Building-Intelligent_systems_across_ML,_distributed_systems_&_mobile-58a6ff?style=flat-square&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/badge/🎯_Targeting-SWE_·_AI/ML_·_Data_Engineer_·_Full_Stack_·_Mobile-58a6ff?style=flat-square&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/badge/💼_Open_to-Summer_2026_Internships_|_Fall_2026_Co--ops-58a6ff?style=flat-square&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/badge/📄_Published-ICDSA_2025_(Springer)_—_Court_Judgment_Prediction-58a6ff?style=flat-square&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/badge/⚡_Fun_fact-I_ship_projects_in_2--3_day_sprints-58a6ff?style=flat-square&labelColor=0d1117" />
-    </td>
-  </tr>
+<div align="center">
+<table border="0">
+<tr><td>
+
+&nbsp; 🎓 &nbsp; **MSCS @ Northeastern University**, Boston
+
+&nbsp; 🔭 &nbsp; Building intelligent systems across **ML, distributed systems & mobile**
+
+&nbsp; 🎯 &nbsp; Targeting: **SWE · AI/ML · Data Engineer · Full Stack · Mobile Dev**
+
+&nbsp; 💼 &nbsp; Open to **Summer 2026 Internships** | **Fall 2026 Co-ops**
+
+&nbsp; 📄 &nbsp; Published at **ICDSA 2025 (Springer)** — Court Judgment Prediction
+
+&nbsp; ⚡ &nbsp; I ship production-ready projects in **2–3 day sprints**
+
+</td></tr>
 </table>
+</div>
 
 <br/>
 
@@ -82,6 +84,7 @@
 <br/>Batch + streaming pipelines with Medallion Architecture
 
 [![Repo](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srujankothuri/TaxiPulse)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://taxipulse-srujankothuri.streamlit.app/)
 
 </td>
 </tr>
@@ -100,6 +103,7 @@
 <br/>Built with Next.js, Prisma & Tailwind CSS
 
 [![Repo](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srujankothuri/shopflow)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shopflow-srujan-kothuris-projects.vercel.app/)
 
 </td>
 <td width="50%">
@@ -131,9 +135,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 🎯 **99.7% recall** on 6.3M+ transactions
-<br/>SHAP explainability · FastAPI serving · [Live Demo](https://fraudlens-srujankothuri.streamlit.app/)
+<br/>SHAP explainability · FastAPI serving
 
 [![Repo](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srujankothuri/FraudLens)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://fraudlens-srujankothuri.streamlit.app/)
 
 </td>
 <td width="50%">
@@ -168,6 +173,7 @@
 <br/>Modular ingestion + retrieval pipelines optimized for scale
 
 [![Repo](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srujankothuri/PageMaster)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://pagemaster-srujan-kothuri.streamlit.app/)
 
 </td>
 </tr>
